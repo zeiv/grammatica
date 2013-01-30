@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Grammatica::VERSION
   gem.authors       = ["Xavier Bick"]
   gem.email         = ["fxb9500@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{Grammatica allows you to use a DSL matching the grammar of your own language.}
+  gem.summary       = %q{Adds grammar DSL to your project.}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
